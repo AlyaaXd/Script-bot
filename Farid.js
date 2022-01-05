@@ -36,9 +36,9 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP
 ❗MAU BELI SCRIPT YANG NO ENC ? KE PM BAWA DANA, HARGA BISIK BISIK :V (6281231951590)
 ────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 limitawal = "50" //LIMIT AWAL
-namabot = "Its Me Xinzz" //NAMA BOT
-namaowner = "OWNER Xinzz🎖️" //NAMA OWNER
-nomerowner = '6281994112523' //NOMER OWNER
+namabot = "Its Me AlyaaXd" //NAMA BOT
+namaowner = "OWNER AlyaaXd🎖️" //NAMA OWNER
+nomerowner = '6289505165400' //NOMER OWNER
 gamewaktu = "300" //3 = 3 detik || 30 = 30 detik .Dst
 numbernye = "0" //GAUSAH DI UBAH JUGA GPP
 gcounttprem = "35" //LIMIT GAME AWAL UNTUK USER PREMIUM
@@ -51,10 +51,10 @@ const lolkey = 'isi' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PA
 
 //DONASI 
 //NOTE : JIKA GA PUNYA, ISI JADI -
-gopay = 'Kode Qr Di Profile Bot'
-dana = '081297365205'
-ovo = '081994112523'
-shopeepay = '081994112523'
+gopay = '085730903853'
+dana = '085730903853'
+ovo = '085730903853'
+shopeepay = '-'
 paypal = '-'
 saweria = '-'
 ewalet = '-'
